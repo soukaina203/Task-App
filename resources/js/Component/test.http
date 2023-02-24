@@ -1,0 +1,12 @@
+GET http://127.0.0.1:8000/api/posts
+#dsjd
+
+POST http://127.0.0.1:8000/api/posts
+Content-Type: application/json
+
+{
+    "title":"JNFDJFNDJSN",
+    "body":"DJSNFJDSNF QSJNDNQS",
+    "cate_id":5
+
+}
